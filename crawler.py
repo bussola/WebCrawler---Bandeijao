@@ -1,7 +1,7 @@
 # This Python file uses the following encoding: utf-8
 # #Esse comentario acima faz com que o python aceite UTF8
 """ Este programa eh Open-source, livre para ser utilizado em quaisquer fins (Apache License)
-
+    Para o codigo funcionar eh preciso utilizar a versao 2.7 do Python
     Este codigo utiliza o gerenciador de banco PostgreSQL, com uma unica tabela
     Dados da tabela:
     dbname='dbBandex' | user='postgres' | host='localhost' | port=5432 password='fuvest' | nome da tabela='tabela'
